@@ -26,3 +26,15 @@ const samplesize = 15;
 const persecond = 3;
 const numberofchannel = 1;
 console.log(samplesize * persecond * numberofchannel);
+const fra=5*9/5 ; 
+const togtmola=32;
+console.log(fra+togtmola);
+const abag=(96+108+89)/3;
+console.log(abag);
+const bbag=(88+91+110)/3;
+console.log(bbag);
+console.log(x+y);
+console.log(x*y);
+console.log(x/y);
+console.log(12+13)
+console.log(12-7)
